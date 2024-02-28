@@ -488,6 +488,7 @@ button:hover{
 
 main{
   min-height: 80vh;
+  padding: 5%;
 }
 
 .whitespace{
